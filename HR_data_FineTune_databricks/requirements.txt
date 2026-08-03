@@ -1,0 +1,12 @@
+torch==2.9.0
+transformers==4.57.1
+trl==0.21.0
+peft==0.18.0
+accelerate==1.11.0
+bitsandbytes==0.47.0
+datasets==3.6.0
+huggingface_hub==0.35.3
+unsloth==2026.7.2
+unsloth_zoo>=2026.2.1
+sentencepiece==0.2.0
+protobuf==5.29.0
