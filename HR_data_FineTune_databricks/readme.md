@@ -318,31 +318,6 @@ This repository demonstrates how to build an enterprise HR assistant capable of 
 
 The pipeline can easily be adapted for other enterprise knowledge bases by replacing the training dataset.
 
----
-
-# 🔮 Future Enhancements
-
-- RAG Integration
-- Agentic AI Workflows
-- Multi-turn Conversation Support
-- Synthetic Data Generation
-- Automated Hyperparameter Optimization
-- Multi-GPU Training
-- Continuous Evaluation Pipeline
-
----
-
-# 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome.
-
-Feel free to fork the repository and submit a pull request.
-
----
-
-# 📜 License
-
-This project is intended for educational and research purposes.
 
 ---
 
